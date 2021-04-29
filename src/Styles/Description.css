@@ -1,0 +1,17 @@
+
+.description-card{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    height: 500px;
+    width: 1000px;
+    background: rgb(231, 230, 230);
+}
+
+.description-poster{
+    height: 500px;
+}
+
+.description-card-left h2,h5{
+    color: #8b61b3b0;
+}

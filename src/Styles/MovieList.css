@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter&display=swap');
+
+.MovieList{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  
+  h1{
+    text-align: center;
+    font-family: 'Bitter', serif;
+    padding-top: 30px;
+    color: aliceblue;
+    text-shadow: 1px 1px #fff;
+  }
+  
+  .movies-container{
+    display : flex; 
+    flex-wrap : wrap; 
+    justify-content  : center
+    
+  }
